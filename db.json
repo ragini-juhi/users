@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "keshav",
+      "lname": "kishor",
+      "email": "email",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "fname": "Ragini",
+      "lname": "Kumari",
+      "email": "email123",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "fname": "Madhav",
+      "lname": "BHarti",
+      "email": "email@email.com",
+      "password": "12345"
+    }
+  ]
+}
